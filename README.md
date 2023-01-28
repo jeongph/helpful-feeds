@@ -12,3 +12,15 @@
 1. [BDD? SDD? 팀 프로젝트 다 같이 개발∙설계하는 방법](https://yozm.wishket.com/magazine/detail/1565/)
 1. [좋은 에러 메시지를 만드는 6가지 원칙](https://toss.tech/article/how-to-write-error-message)
 1. [12 hand-picked chrome extensions that will change the way you do web development in 2023](https://dev.to/hackertab/12-hand-picked-chrome-extensions-that-will-change-the-way-you-do-web-development-in-2023-ni9?utm_source=oneoneone)
+
+1. https://www.jetbrains.com/ko-kr/lp/devecosystem-2022/
+1. https://survey.stackoverflow.co/2022/
+1. https://fe-developers.kakaoent.com/2023/230112-appropriate-technology/
+1. https://edykim.com/ko/post/code-coverage-best-practices/
+1. https://black7375.tistory.com/90
+1. https://evan-moon.github.io/2019/11/10/header-of-tcp/
+1. https://velog.io/@stella6767/JS-%EC%97%90-%EB%8C%80%ED%95%B4-%EB%88%84%EA%B5%AC%EB%82%98-%EC%95%8C%EA%B3%A0%EC%9E%88%EC%9D%84-%EB%B2%95%ED%95%9C-%EC%83%81%EC%8B%9D%EB%93%A4?url=https://velog.io/@stella6767/JS-%EC%97%90-%EB%8C%80%ED%95%B4-%EB%88%84%EA%B5%AC%EB%82%98-%EC%95%8C%EA%B3%A0%EC%9E%88%EC%9D%84-%EB%B2%95%ED%95%9C-%EC%83%81%EC%8B%9D%EB%93%A4
+1. https://tech.kakao.com/2023/01/11/promise-cancelation-in-javascript/
+1. https://medium.com/naver-cloud-platform/%EA%B8%B0%EC%88%A0-%EC%BB%A8%ED%85%90%EC%B8%A0-%EB%AC%B8%EC%9E%90-%EC%95%8C%EB%A6%BC-%EB%B0%9C%EC%86%A1-%EC%84%9C%EB%B9%84%EC%8A%A4-sens%EC%9D%98-mapstruct-%EC%A0%81%EC%9A%A9%EA%B8%B0-8fd2bc2bc33b
+1. https://tecoble.techcourse.co.kr/post/2022-10-17-jpa-hibernate-proxy/
+1. https://tech.scatterlab.co.kr/spring-boot-monitoring-with-prometheus/
