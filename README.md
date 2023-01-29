@@ -3,7 +3,6 @@
 
 1. [15 Tips to Become a Java Expert!](https://dev.to/weder96/15-tips-to-become-a-java-expert-1acj)
 1. [Spring Batch를 더 우아하게 사용하기 - Spring Batch Plus](https://d2.naver.com/helloworld/9879422)
-1. [스프링 배치 메타데이터 테이블 자동 생성 설정](https://madplay.github.io/post/spring-batch-auto-create-metadata-tables)
 1. [실수로 MySQL 데이터를 삭제했을 때 바이너리 로그를 통해 복구하기 😱 (PIT 복구)](https://hudi.blog/mysql-pit-recover/)
 1. [AOP에 대한 사실과 오해 그런데 트랜잭션을 사알짝 곁들인..](https://tecoble.techcourse.co.kr/post/2022-11-07-transaction-aop-fact-and-misconception/)
 1. [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
@@ -24,3 +23,6 @@
 1. https://medium.com/naver-cloud-platform/%EA%B8%B0%EC%88%A0-%EC%BB%A8%ED%85%90%EC%B8%A0-%EB%AC%B8%EC%9E%90-%EC%95%8C%EB%A6%BC-%EB%B0%9C%EC%86%A1-%EC%84%9C%EB%B9%84%EC%8A%A4-sens%EC%9D%98-mapstruct-%EC%A0%81%EC%9A%A9%EA%B8%B0-8fd2bc2bc33b
 1. https://tecoble.techcourse.co.kr/post/2022-10-17-jpa-hibernate-proxy/
 1. https://tech.scatterlab.co.kr/spring-boot-monitoring-with-prometheus/
+
+# Hold
+1. [스프링 배치 메타데이터 테이블 자동 생성 설정](https://madplay.github.io/post/spring-batch-auto-create-metadata-tables)
