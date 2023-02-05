@@ -1,11 +1,11 @@
 # helpful-feeds
 주관적으로 선별한 feed 들
 
-# 에세이
+# 📖 에세이
 - [경지에 오르는 세 번째 관문](https://brunch.co.kr/@osyvv/105) (2020/02/18)
 - [2022 CTO 회고](https://jojoldu.tistory.com/694) (2023/01/02)
 
-# 개발 관련
+# 💻 개발 관련
 
 ## 주간지
 - [2022년도 개발자 에코시스템 현황](https://blog.jetbrains.com/ko/blog/2023/01/17/the-state-of-developer-ecosystem-2022/) (2023/01/17)
@@ -51,7 +51,7 @@
 # Design, UI&UX
 - [좋은 에러 메시지를 만드는 6가지 원칙](https://toss.tech/article/how-to-write-error-message) (2022/9/21)
 
-# 기타 주제
+# 🔗 기타 주제
 - [12 hand-picked chrome extensions that will change the way you do web development in 2023](https://dev.to/hackertab/12-hand-picked-chrome-extensions-that-will-change-the-way-you-do-web-development-in-2023-ni9?utm_source=oneoneone) (영어) (2023/01/01)
 - [Text to Diagram](https://text-to-diagram.com/)
 
