@@ -1,9 +1,5 @@
 # Scheduled
-1. [스프링 배치 메타데이터 테이블 자동 생성 설정](https://madplay.github.io/post/spring-batch-auto-create-metadata-tables)
 
-1. https://www.jetbrains.com/ko-kr/lp/devecosystem-2022/
-1. https://survey.stackoverflow.co/2022/
-1. https://fe-developers.kakaoent.com/2023/230112-appropriate-technology/
 1. https://edykim.com/ko/post/code-coverage-best-practices/
 1. https://black7375.tistory.com/90
 1. https://evan-moon.github.io/2019/11/10/header-of-tcp/
@@ -24,3 +20,7 @@
 9. https://blog.outsider.ne.kr/1649
 10. https://tech.kakaoenterprise.com/178
 11. https://blog.outsider.ne.kr/1647
+
+# hold
+
+1. [스프링 배치 메타데이터 테이블 자동 생성 설정](https://madplay.github.io/post/spring-batch-auto-create-metadata-tables)
