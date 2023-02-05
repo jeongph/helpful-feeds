@@ -48,7 +48,7 @@
 ## 그외 
 - [기술 블로그(Engineering Blog)란?](https://www.44bits.io/ko/keyword/engineering-blog) (2021/02/14)
 
-# Design, UI&UX
+# 🎨 Design, UI&UX
 - [좋은 에러 메시지를 만드는 6가지 원칙](https://toss.tech/article/how-to-write-error-message) (2022/9/21)
 
 # 🔗 기타 주제
