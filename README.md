@@ -3,7 +3,7 @@
 
 # 📖 에세이
 
-- [경지에 오르는 세 번째 관문](https://brunch.co.kr/@osyvv/105) (2020/02/18)
+- [경지에 오르는 세 번째 관문](https://brunch.co.kr/@osyvv/105){:target="\_blank"} (2020/02/18)
 - [2022 CTO 회고](https://jojoldu.tistory.com/694) (2023/01/02)
 - [체대 출신 개발자의 2022년 회고](https://ryan-han.com/post/memoirs/memoirs2022/) (2022/12/18)
 - [2019년 회고](https://johngrib.github.io/wiki/review/2019/?url=https://johngrib.github.io/wiki/review/2019/) (2023/01/28)
