@@ -1,5 +1,6 @@
-# helpful-feeds
-주관적으로 선별한 feed 들
+# 도움받은 피드 정리
+
+> helpful-feeds: 주관적으로 도움이 됐던 피드들 모음 
 
 # 📖 에세이
 
