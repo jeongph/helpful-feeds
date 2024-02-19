@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Home"
+permalink: /
+---
+
 # 도움받은 피드 정리
 
 > helpful-feeds: 주관적으로 도움이 됐던 피드들 모음 
