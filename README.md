@@ -6,7 +6,7 @@ description: "Home"
 permalink: /
 ---
 
-# 도움받은 피드 정리
+# 유용한 피드 정리
 
 > helpful-feeds: 주관적으로 도움이 됐던 피드들 모음 
 
