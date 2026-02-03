@@ -1,0 +1,23 @@
+export const SITE = {
+  website: "https://jeongph.github.io/",
+  author: "Jeong-Uk Park",
+  profile: "https://github.com/jeongph",
+  desc: "주관적으로 도움이 됐던 피드들 모음",
+  title: "Helpful Dev Feeds",
+  ogImage: "astropaper-og.jpg",
+  lightAndDarkMode: true,
+  postPerIndex: 5,
+  postPerPage: 5,
+  scheduledPostMargin: 15 * 60 * 1000,
+  showArchives: true,
+  showBackButton: true,
+  editPost: {
+    enabled: false,
+    text: "Edit page",
+    url: "https://github.com/jeongph/helpful-feeds/edit/main/",
+  },
+  dynamicOgImage: true,
+  dir: "ltr",
+  lang: "ko",
+  timezone: "Asia/Seoul",
+} as const;
