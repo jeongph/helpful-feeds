@@ -1,5 +1,6 @@
 ---
 import IconX from "@/assets/icons/IconX.svg";
+import IconRss from "@/assets/icons/IconRss.svg";
 import IconMoon from "@/assets/icons/IconMoon.svg";
 import IconSearch from "@/assets/icons/IconSearch.svg";
 import IconArchive from "@/assets/icons/IconArchive.svg";
@@ -84,11 +85,6 @@ const isActive = (path: string) => {
           </a>
         </li>
         <li class="col-span-2">
-          <a href={`${base}/feeds`} class:list={{ "active-nav": isActive("/feeds") }}>
-            Feeds
-          </a>
-        </li>
-        <li class="col-span-2">
           <a href={`${base}/steady`} class:list={{ "active-nav": isActive("/steady") }}>
             Steady
           </a>
@@ -131,6 +127,18 @@ const isActive = (path: string) => {
             <IconSearch />
             <span class="sr-only">Search</span>
           </LinkButton>
+        </li>
+        <li class="col-span-1 flex items-center justify-center">
+          <a
+            href={`${base}/rss.xml`}
+            target="_blank"
+            class="focus-outline flex p-3 sm:p-1 hover:[&>svg]:stroke-accent"
+            title="RSS Feed"
+            aria-label="rss feed"
+          >
+            <IconRss />
+            <span class="sr-only">RSS Feed</span>
+          </a>
         </li>
         {
           SITE.lightAndDarkMode && (
