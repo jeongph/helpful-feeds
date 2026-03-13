@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://jeongph.github.io/",
+  website: "https://feeds.jeongph.dev/",
   author: "Jeong-Uk Park",
   profile: "https://github.com/jeongph",
   desc: "주관적으로 도움이 됐던 피드들 모음",
