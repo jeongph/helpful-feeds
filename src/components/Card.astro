@@ -10,18 +10,32 @@ type Props = {
 
 const { variant: Heading = "h2", id, data, filePath } = Astro.props;
 
-const { title, description, ...props } = data;
+const { title, description, ogImage, ...props } = data;
+
+const ogImageUrl =
+  typeof ogImage === "string" ? ogImage : ogImage?.src;
 ---
 
 <li class="my-6">
   <a
     href={getPath(id, filePath)}
     class:list={[
+      "group",
       "inline-block text-lg font-medium text-accent",
       "decoration-dashed underline-offset-4 hover:underline",
       "focus-visible:no-underline focus-visible:underline-offset-0",
     ]}
   >
+    {
+      ogImageUrl && (
+        <img
+          src={ogImageUrl}
+          alt={title}
+          class="mb-2 w-full rounded-lg object-cover sm:max-h-48"
+          loading="lazy"
+        />
+      )
+    }
     <Heading
       style={{ viewTransitionName: slugifyStr(title.replaceAll(".", "-")) }}
     >
